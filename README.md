@@ -1,7 +1,7 @@
 Audit Application dashlet for Alfresco Share
 ============================================
 
-Author: Romain Guinot
+Author: Romain Guinot, Bhagya Silva
 
 This project defines a custom dashlet to display events for any given audit application.
 
